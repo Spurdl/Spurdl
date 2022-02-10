@@ -1,4 +1,4 @@
-I'm Spurdl, hobbyist builder and arduino programmer. Also trying to learn to git often, but let's see how that goes.
+I'm Spurdl, hobbyist builder and arduino programmer. Linux novice. Also trying to learn to git often, but let's see how that goes. 
 
 Learning some front end with HTML5, CSS and JavaScript soon.
 
