@@ -1,4 +1,4 @@
-I'm Spurdl, hobbyist builder and arduino programmer. Linux novice.
+I'm Spurdl, hobbyist builder and arduino programmer. Linux enjoyer.
 
 "If you can waste 20 hours, 30€ in parts and your last mental health to build and program it by yourself, it's better than buying a ready made device for 12€"
 <!---
